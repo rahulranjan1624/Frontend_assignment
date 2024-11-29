@@ -22,4 +22,3 @@ Countdown Generator is a React app for creating countdowns for events like birth
 - HTML, CSS
 - Netlify
 
-Contact: ahsant2709@gmail.com
